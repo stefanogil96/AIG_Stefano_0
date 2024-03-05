@@ -1,3 +1,5 @@
 Vermelho
 Azul
 Preto
+Amarelo
+Branco
